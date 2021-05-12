@@ -10,3 +10,7 @@ Página responsive hecha para practicar conceptos de HTML, CSS y JQuery.
 * El artículo del Acerca de se coloca debajo de la imagen en dispositivos con un ancho menor a 800px (en los que son mayores a 800px se cargaba más abajo para que, al scrolear a esta sección, se viera lado de la imagen)
 ### Responsive
 Hay dos mediaqueries: para dispositivos con un ancho menor o igual a 800px y dispositivos con un ancho menor o igual a 400px.
+<br>
+<br>
+<br>
+Práctica original del curso "Diseño Web Profesional El Curso Completo, Práctico y desde 0" (Carlos Arturo, Udemy)
